@@ -14,6 +14,5 @@ The results observed are as follows:
 
 ![Img2](https://github.com/saiv20/object_detection/blob/main/yolov5-master/runs/detect/exp2/2.png)
 
-![Img3](https://github.com/saiv20/object_detection/blob/main/yolov5-master/runs/detect/exp3/3.png)
 
 
