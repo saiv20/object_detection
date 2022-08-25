@@ -4,9 +4,7 @@ This project was built for detecting objects (especially interested in vehicles 
 
 ## Object Detection
 
-The yolov5-master/ folder contains the files required to perform object detection using YOLOv5. Run detect.py to detect images as follows:
-
-    python detect.py --source imgs/1.png --weights yolov5m.pt
+The yolov5-master/ folder contains the files required to perform object detection using YOLOv5. Run detect.py to detect vehicles and pedestrians.
     
 The results observed are as follows:
 
