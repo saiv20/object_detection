@@ -1,6 +1,6 @@
 # object_detection
 
-This projects was built for detecting objects (especially interested in vehicles and pedestrians). YOLOv5 was used for object detection. 
+This project was built for detecting objects (especially interested in vehicles and pedestrians). YOLOv5 was used for object detection. Learn more about YOLOv5 [here](https://pytorch.org/hub/ultralytics_yolov5/).  
 
 ## Object Detection
 
